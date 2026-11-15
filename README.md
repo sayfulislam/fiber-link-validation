@@ -10,7 +10,7 @@ A practical field guide to validating GPU-to-TOR fiber links in next-generation 
 
 1. [What is validation?](#1-what-is-validation)
 2. [What is root cause analysis?](#2-what-is-root-cause-analysis)
-3. [Loopback — definition](#3-loopback--definition)
+3. [What is Loopback?](#3-what-is-loopback)
 4. [Terms to know for validation work](#4-terms-to-know-for-validation-work)
 5. [Tools, cables and connectors to know](#5-tools-cables-and-connectors-to-know)
 6. [Error types you will face during validation](#6-error-types-you-will-face-during-validation)
