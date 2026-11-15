@@ -80,7 +80,7 @@ A good RCA is **blameless**: it looks at systems and processes, not at who to pu
 
 ---
 
-## 3. Loopback — definition
+## 3. What is Loopback? 
 
 A **loopback** is a test where you plug a small adapter into an optical port that connects the port's **transmit (TX)** fiber directly back into its own **receive (RX)** fiber. The port is now talking to itself — no cable, no patch panel, no far end.
 
