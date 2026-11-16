@@ -17,6 +17,7 @@ A practical field guide to validating GPU-to-TOR fiber links in next-generation 
 7. [The 7-step fiber link validation framework](#7-the-7-step-fiber-link-validation-framework)
 8. [Validation checklist](#8-validation-checklist)
 9. [Useful commands](#9-useful-commands)
+10. [Resources](#10-resources)
 
 ---
 
@@ -352,6 +353,19 @@ dmesg -T | grep -iE 'sfp|module|<nic>'
 ip macsec show                                # MACsec SA status
 systemctl status lldpd node_exporter          # agents the validation tool depends on
 ```
+
+---
+
+## 10. Resources
+
+Downloadable PDF guides in the [`docs`](docs/) folder:
+
+| Document | What it covers |
+|---|---|
+| [Fiber Link Validation Framework](docs/Fiber_Link_Validation_Framework.pdf) | The 7-step fiber link validation framework |
+| [DC Link Validation Error Guide](docs/DC_Link_Validation_Error_Guide.pdf) | Validation error types and how to resolve them |
+| [Root Cause Analysis Guide](docs/Root_Cause_Analysis_Guide.pdf) | Structured RCA method for data center faults |
+| [Data Center Technician Career Levels (L1 to L4)](docs/Data_Center_Technician_Career_Levels_L1_to_L4%202.pdf) | Data center technician career levels, L1 to L4 |
 
 ---
 
